@@ -1,8 +1,8 @@
 # Integración API para Facturación Electrónica MIFACT
 
-*Integra tu software a la facturación Electrónica fácilmente con el API JSON de Mifact.
+*Integra tu software a la Facturación Electrónica fácilmente con el API JSON de Mifact.
 
-Para poder hacer pruebas con la API debe conectar su aplicación con nuestra plataforma MIFACT mediante APIREST en formato JSON, para ello usted tiene:
+Para hacer pruebas con la API debe conectar su aplicación con nuestra plataforma MIFACT mediante APIREST en formato JSON, para ello usted tiene:
 
 📄 DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de Facturas, Boletas, Notas de Crédito y Débito
 
@@ -15,7 +15,7 @@ Para poder hacer pruebas con la API debe conectar su aplicación con nuestra pla
 
 📂 Codigos Fuentes Varios Lenguajes: contiene ejemplo para Visual Studio C#
 
-📂 Ejemplos JSON UBL 2_1: contiene ejemplos json armados para distintos escenarios, Factura normal, operaciones Inafectas, exonerads, exportacion etre otras, anular documento, ver estados, ver PDF, XML y CDR.
+📂 Ejemplos JSON UBL 2_1: contiene ejemplos JSON armados para distintos escenarios, Factura normal, operaciones Inafectas, exonerads, exportacion etre otras, anular documento, ver estados, ver PDF, XML y CDR.
 
 📄 Documentacion-FV-BV-NC-ND-JSON.xlsx: contiene TAGS que soportan el servicio API, que siginifica cada TAG y restricciones que tiene, tambien contiene los CATALOGOS de SUNAT, respuesta del servicio API y su tratamiento.
 
@@ -43,7 +43,7 @@ Para poder hacer pruebas con la API debe conectar su aplicación con nuestra pla
 
 
 
-El servicio de integración para CONSULTA RUC es gratis para nuestros partners autorizados, si ya eres partner solicíta tus credenciales  en soporte@mifact.net.
+El servicio de integración para CONSULTA RUC es gratis para nuestros partners autorizados, si ya eres partner solicita tus credenciales  en soporte@mifact.net.
 
 
 ----
