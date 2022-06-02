@@ -1,13 +1,12 @@
 # Integración API para Facturación Electrónica MIFACT
-# Integración API para software de terceros con la plataforma mifact
 
 *Integra tu software a la facturación Electrónica fácilmente con el API JSON de Mifact.
 
 Para poder hacer pruebas con la API debe conectar su aplicación con nuestra plataforma MIFACT mediante APIREST en formato JSON, para ello usted tiene:
 
-📄 DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boeletas, notas de credito y debito
+📄 DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boletas, notas de crédito y débito
 
-📄 DocumentacionGuiaRemisionJson.xlsx para Guías de Remision Remitente
+📄 DocumentacionGuiaRemisionJson.xlsx para Guías de Remisión Remitente
 
 📄 DocumentacionRetencionJson.xlsx para Facturas Electrónicas con Retenciones y Percepciones
 
@@ -23,21 +22,21 @@ Para poder hacer pruebas con la API debe conectar su aplicación con nuestra pla
 
 
 ## Estructura para Guia de Remisión Remitente (📂 Integracion-JSON-GuiaRemision):
-    📂 Ejemplos Archivos JSON: contiene ejemplos json armados para distintos escenarios, anulaciones, enviar correo, ver estado, descargar pdf.
+    📂 Ejemplos Archivos JSON: contiene ejemplos JSON armados para distintos escenarios, anulaciones, enviar correo, ver estado, descargar PDF.
 
     📄 DocumentacionGuiaRemisionJson.xlsx: contiene que tags soporta el servicio API, que siginifica cada tag y que restricciones tiene, tambien contiene los catalogos de SUNAT, respuesta del servicio API y su tratamiento.
 
     📄 URLs_PRUEBAS.txt: estan las URL de pruebas, el token de conexion y un ruc de pruebas, cuando termine de hacer sus pruebas debera de cambiar la URL por la de produccion, cambiar el token por cada RUC (emisor).
 
 ## Estructura para Retenciones (📂 Integracion-JSON_Retenciones-Percepciones),:
-    📂 Ejemplos Archivos JSON: contiene ejemplos json armados para distintos escenarios, anulaciones, enviar correo, ver estado, descargar pdf.
+    📂 Ejemplos Archivos JSON: contiene ejemplos JSON armados para distintos escenarios, anulaciones, enviar correo, ver estado, descargar PDF.
 
     📄 DocumentacionRetencionJson.xlsx: contiene que tags soporta el servicio api, que siginifica cada tag y que restricciones tiene, tambien contiene los catalogos de SUNAT, respuesta del servicio API y su tratamiento.
 
     📄 URLs_PRUEBAS.txt: estan las URL de pruebas, el token de conexion y un ruc de pruebas, cuando termine de hacer sus pruebas debera de cambiar la URL por la de produccion, cambiar el token por cada RUC (emisor). 
 
 
-El servicio de integración para consulta RUC es gratuito para nuestros partners autorizados, si usted ya es nuestro partners, solicite sus credenciales para el servicio de consulta RUC en soporte@mifact.net.
+El servicio de integración para consulta RUC es gratis para nuestros partners autorizados, si usted ya es nuestro partners, solicite sus credenciales para el servicio de consulta RUC en soporte@mifact.net.
 ----
 ----
 # apijson
