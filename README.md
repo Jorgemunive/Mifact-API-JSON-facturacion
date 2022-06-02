@@ -6,7 +6,9 @@
 Para poder hacer pruebas con la API debe conectar su aplicación con nuestra plataforma MIFACT mediante APIREST en formato JSON, para ello usted tiene:
 
 📄 DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boeletas, notas de credito y debito
+
 📄 DocumentacionGuiaRemisionJson.xlsx para Guías de Remision Remitente
+
 📄 DocumentacionRetencionJson.xlsx para Facturas Electrónicas con Retenciones y Percepciones
 
 ## Estructura para Facturas, Boletas, Notas de Crédito y Débito (📂 Integracion-JSON-FV-BV-NC-ND):
