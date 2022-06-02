@@ -4,7 +4,7 @@
 
 Para poder hacer pruebas con la API debe conectar su aplicación con nuestra plataforma MIFACT mediante APIREST en formato JSON, para ello usted tiene:
 
-📄 DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boletas, notas de crédito y débito
+📄 DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de Facturas, Boletas, Notas de Crédito y Débito
 
 📄 DocumentacionGuiaRemisionJson.xlsx para Guías de Remisión Remitente
 
@@ -18,7 +18,7 @@ Para poder hacer pruebas con la API debe conectar su aplicación con nuestra pla
 
     📄 Documentacion-FV-BV-NC-ND-JSON.xlsx: contiene TAGS que soportan el servicio API, que siginifica cada TAG y restricciones que tiene, tambien contiene los CATALOGOS de SUNAT, respuesta del servicio API y su tratamiento.
 
-    📄 URLs_PRUEBAS.txt: contiene las URL de pruebas, el token de conexión y un RUC de pruebas, cuando termine de hacer sus pruebas debe de cambiar  a una URL de producción, cambiar el token por cada RUC (emisor).
+    📄 URLs_PRUEBAS.txt: contiene las URL de pruebas, el token de conexión y un RUC de pruebas, cuando termine de hacer sus pruebas debe de cambiar a una URL de producción, cambiar el token por cada RUC (emisor).
 
 
 ## Estructura para Guia de Remisión Remitente (📂 Integracion-JSON-GuiaRemision):
@@ -28,7 +28,8 @@ Para poder hacer pruebas con la API debe conectar su aplicación con nuestra pla
 
     📄 URLs_PRUEBAS.txt: estan las URL de pruebas, el token de conexion y un ruc de pruebas, cuando termine de hacer sus pruebas debera de cambiar la URL por la de produccion, cambiar el token por cada RUC (emisor).
 
-## Estructura para Retenciones (📂 Integracion-JSON_Retenciones-Percepciones),:
+
+## Estructura para Retenciones (📂 Integracion-JSON_Retenciones-Percepciones):
     📂 Ejemplos Archivos JSON: contiene ejemplos JSON armados para distintos escenarios, anulaciones, enviar correo, ver estado, descargar PDF.
 
     📄 DocumentacionRetencionJson.xlsx: contiene que tags soporta el servicio api, que siginifica cada tag y que restricciones tiene, tambien contiene los catalogos de SUNAT, respuesta del servicio API y su tratamiento.
@@ -36,7 +37,10 @@ Para poder hacer pruebas con la API debe conectar su aplicación con nuestra pla
     📄 URLs_PRUEBAS.txt: estan las URL de pruebas, el token de conexion y un ruc de pruebas, cuando termine de hacer sus pruebas debera de cambiar la URL por la de produccion, cambiar el token por cada RUC (emisor). 
 
 
-El servicio de integración para consulta RUC es gratis para nuestros partners autorizados, si usted ya es nuestro partners, solicite sus credenciales para el servicio de consulta RUC en soporte@mifact.net.
+
+El servicio de integración para CONSULTA RUC es gratis para nuestros partners autorizados, si usted ya es nuestro partner, solicite sus credenciales para el servicio de consulta RUC en soporte@mifact.net.
+
+
 ----
 ----
 # apijson
